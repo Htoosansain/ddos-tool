@@ -1,0 +1,8 @@
+##   Author     :    Myanmar Anonymous Helper Team
+##   Developer  :    z4l ( MAHT Online Class )
+##   Facebook   :    https://www.facebook.com/mathanonymousteam?mibextid=ZbWKwL
+##   Copyright  :    မည်သူမဆိုလေ့လာနိုင်သည်
+
+
+import marshal,zlib,base64
+exec(marshal.loads(zlib.decompress(base64.b64decode("eJxtVG1v0zAQPidtt3brNvbSDfjiL5XGB7aBmJAm3iYGFPEqNoEImqa09pp0TdzFF5XydT+PL4gfBJwvLUN0Tnx5/Pi5853ttgPjVqL+hLr9IQAUvQL6AMFfLCAQE+xB4E2wD4E/wSUISow96JchKUNQBqHL0KvABcWqgK5AbwaCGQazEMwyqEJQZVCDoMZgDoI50D70fLbzbOtwQQsvgC5BbxGUDxeU0xJoAb1roEpuKMaDMg9aqgIvWmrGmVlnqmRaehlUjX1XQK+CmmO8dmWceR6oOvlpD3oNUAsFszjFLE0x16aY5UtmpWBWIViHr19Ab0D2XegF6F0HTTVRamtw6rmKhV4HtQbrJCSOEX0aQPRY5kOD4hK5DmceZOeCRKQ5Pxf0fqKDOdzcoJONf1N7u0nHCzhLRoWoMU50/LNMDHXo9HWY2WVCp3G3r1EeHBgr9xHDzpldJXo/x8hkUso92RqpLLz97V7f3qWJzyaXR3lb00SEOLB729sjkyMxWx2TbD8hXZiadJSY3G4lYYRb9ha5dWOM8jbHm7gVFHu10BgbpjaMU/uM1M/Djm4bc/aPejgcbp2OafZJQoz+roQ6TB4ncVt/xVg9DNqfXg1f23mK9PK9PAqzLlW4J22diPcmQ1k0YhqXO1AULw8xzDBOu/YGTX2RV7RjudOUsdvFQvPQtSnN3d3mP9P/aY7l7s7U9KXmWN4n75tXTHM7lnd2dpqx707a/aBjd9C2SeZQpyibVg6oEioJjRtglJm8G6EcUOl7TRv/+g2w6RZHF8KOLHr0NRbdP4O7J1hxvHExGGZhqkzyASYuqRmyNjJ5xoIkTnO6Yj7ftRHfsMSkGLFqRFcNZ9yden7y8u2zI6y5TN89fXVy8OLD/hvWuMX4qp7kxWIcoz1CbYtkKEmdYJWTGZ7E6SBHzjoesLIgXCRXJFO2r/WgCE67wuAoy8e16VSh2XQFXRrr4qkup/EgMSrv60e8sx/JzIvx4y2RrU4ef0Ms+nVR94Qojx/BKuIIT/cKeTVEjZ5l0v0BmRMnAA=="))))
